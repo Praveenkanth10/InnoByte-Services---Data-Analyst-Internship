@@ -54,6 +54,4 @@ The dataset used for this analysis is "Amazon Sale Report ". It contains informa
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License.
